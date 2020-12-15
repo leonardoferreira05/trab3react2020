@@ -1,0 +1,15 @@
+.corRoxa {
+    color: #b6037a;
+  }
+  
+  .corVerde {
+    color: #05bb33;
+  }
+  
+  .corVermelha {
+    color: #c90523;
+  }
+  
+  span {
+    cursor: pointer;
+  }
